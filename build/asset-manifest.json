@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5508827d.css",
+    "main.js": "./static/js/main.c5280270.js",
+    "static/js/787.ed3bc693.chunk.js": "./static/js/787.ed3bc693.chunk.js",
+    "static/media/Ahsing-Regular.otf": "./static/media/Ahsing-Regular.5afe208226cd572d39a8.otf",
+    "static/media/errorimg.png": "./static/media/errorimg.a701a893c8a26e23fae5.png",
+    "static/media/cheers.png": "./static/media/cheers.09355d6b6500291e5191.png",
+    "static/media/chill.png": "./static/media/chill.cd09484b59fc8f39e4fb.png",
+    "static/media/sunglasses.png": "./static/media/sunglasses.6eeb79e1717721d1af88.png",
+    "static/media/noquote.png": "./static/media/noquote.dca8e3847286e5b5e06a.png",
+    "static/media/search.png": "./static/media/search.bef0bc7a83ccd4aba441.png",
+    "index.html": "./index.html",
+    "main.5508827d.css.map": "./static/css/main.5508827d.css.map",
+    "main.c5280270.js.map": "./static/js/main.c5280270.js.map",
+    "787.ed3bc693.chunk.js.map": "./static/js/787.ed3bc693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5508827d.css",
+    "static/js/main.c5280270.js"
+  ]
+}
